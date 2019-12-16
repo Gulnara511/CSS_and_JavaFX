@@ -1,0 +1,4 @@
+#2c3345 - background
+#29e5e6 - LOGIN, border 
+#232b38 - create account
+#e0f9f7 , #2e7585 - font color

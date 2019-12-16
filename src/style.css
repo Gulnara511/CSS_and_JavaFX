@@ -1,0 +1,67 @@
+#anchor {
+    -fx-background-color: radial-gradient(focus-distance 0% , center 50% 50% , radius 50% , #2e6473, #2c3345);
+    -fx-background-repeat: no-repeat;
+}
+
+.anchor-sing-in {
+    -fx-background-image:url("img/user-64.png");
+    -fx-background-position: 50% 20%;
+}
+
+.anchor-sing-up {
+    -fx-background-image:url("img/add-user-48.png");
+    fx-background-position: 50% 7%;
+}
+
+.round {
+    -fx-border-radius: 50;
+    -fx-alignment: center;
+    -fx-background-radius: 50;
+    -fx-text-fill: #e0f9f7;
+    -fx-padding: 8;
+    -fx-font-size: 12px;
+}
+
+.input {
+    fx-border-width: 1px;
+    -fx-border-color: #29e5e6 ;
+    -fx-background-color: transparent;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: 11 11;
+    -fx-background-size: 12;
+    -fx-text-fill: #e0f9f7;
+    -fx-prompt-text-fill: #2e7585 ;
+}
+
+#mail {
+      -fx-background-image: url("img/email-5-16.png");
+ }
+
+#password {
+     -fx-background-image: url("img/padlock-16.png");
+}
+
+.login {
+    -fx-background-color: #29e5e6;
+    -fx-font-weight: bold;
+}
+
+.login:hover {
+    -fx-background-color: #249a9b;
+}
+
+.create {
+    -fx-background-color: #232b38;
+    -fx-font-weight: bold;
+}
+
+.create:hover {
+    -fx-background-color: #474d5a;
+}
+
+.label {
+    -fx-text-fill: #e0f9f7;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-alignment: center;
+}
